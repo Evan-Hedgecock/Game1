@@ -4,14 +4,16 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/home/evan/Documents/coding/game1/Content/earth.png</File>
-    <File>/home/evan/Documents/coding/game1/Content/File.spritefont</File>
-    <File>/home/evan/Documents/coding/game1/Content/shuttle.png</File>
-    <File>/home/evan/Documents/coding/game1/Content/stars.jpg</File>
+    <File>/home/evan/Documents/Code/game1/Content/earth.png</File>
+    <File>/home/evan/Documents/Code/game1/Content/File.spritefont</File>
+    <File>/home/evan/Documents/Code/game1/Content/shuttle.png</File>
+    <File>/home/evan/Documents/Code/game1/Content/SmileyWalk.png</File>
+    <File>/home/evan/Documents/Code/game1/Content/stars.jpg</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
     <File>Score.spritefont</File>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>

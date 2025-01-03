@@ -243,11 +243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/evan/Documents/coding/game1/game1.csproj",
+      "projectUniqueName": "/home/evan/Documents/Code/game1/game1.csproj",
       "projectName": "game1",
-      "projectPath": "/home/evan/Documents/coding/game1/game1.csproj",
+      "projectPath": "/home/evan/Documents/Code/game1/game1.csproj",
       "packagesPath": "/home/evan/.nuget/packages/",
-      "outputPath": "/home/evan/Documents/coding/game1/obj/",
+      "outputPath": "/home/evan/Documents/Code/game1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/evan/.nuget/NuGet/NuGet.Config"

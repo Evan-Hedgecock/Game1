@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/home/evan/Documents/coding/game1/Content/shuttle.png</SourceFile>
-  <SourceTime>2024-12-31T20:26:16.1922999-07:00</SourceTime>
-  <DestFile>/home/evan/Documents/coding/game1/Content/bin/DesktopGL/shuttle.xnb</DestFile>
-  <DestTime>2024-12-31T23:15:10.5301602-07:00</DestTime>
+  <SourceFile>/home/evan/Documents/Code/game1/Content/shuttle.png</SourceFile>
+  <SourceTime>2025-01-02T00:09:36.689923-07:00</SourceTime>
+  <DestFile>/home/evan/Documents/Code/game1/Content/bin/DesktopGL/shuttle.xnb</DestFile>
+  <DestTime>2025-01-02T13:57:12.6415182-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T11:05:56-06:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

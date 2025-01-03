@@ -1,5 +1,6 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"/home/evan/Documents/coding/game1/Content/earth.png","/home/evan/Documents/coding/game1/Content/bin/DesktopGL/Content/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0.0824094
-"/home/evan/Documents/coding/game1/Content/File.spritefont","/home/evan/Documents/coding/game1/Content/bin/DesktopGL/Content/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2021,70690,0.1446952
-"/home/evan/Documents/coding/game1/Content/shuttle.png","/home/evan/Documents/coding/game1/Content/bin/DesktopGL/Content/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.0045712
-"/home/evan/Documents/coding/game1/Content/stars.jpg","/home/evan/Documents/coding/game1/Content/bin/DesktopGL/Content/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0.0411868
+"/home/evan/Documents/Code/game1/Content/earth.png","/home/evan/Documents/Code/game1/Content/bin/DesktopGL/Content/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0.1068412
+"/home/evan/Documents/Code/game1/Content/File.spritefont","/home/evan/Documents/Code/game1/Content/bin/DesktopGL/Content/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2021,70690,0.1023757
+"/home/evan/Documents/Code/game1/Content/shuttle.png","/home/evan/Documents/Code/game1/Content/bin/DesktopGL/Content/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.0048384
+"/home/evan/Documents/Code/game1/Content/SmileyWalk.png","/home/evan/Documents/Code/game1/Content/bin/DesktopGL/Content/SmileyWalk.xnb","TextureProcessor","Texture2DContent",40026,262229,0.0955507
+"/home/evan/Documents/Code/game1/Content/stars.jpg","/home/evan/Documents/Code/game1/Content/bin/DesktopGL/Content/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0.0697674
